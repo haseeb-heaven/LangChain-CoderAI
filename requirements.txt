@@ -9,3 +9,4 @@ python-dotenv
 vertexai
 google-generativeai
 litellm
+langchain-community
